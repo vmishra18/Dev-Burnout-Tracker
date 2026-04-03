@@ -20,8 +20,8 @@ export const defaultProfile: UserProfile = {
 };
 
 function normalizeProfile(profile: UserProfile | null): UserProfile | null {
-  if (!profile) {
-    return null;
+  if (!profile) 
+  {    return null;
   }
 
   return {
