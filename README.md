@@ -16,16 +16,6 @@ The current version is intentionally positioned as a strong frontend MVP: real p
 - Local-first persistence via `localStorage`
 - Exportable weekly recap
 
-## Screens
-
-<img width="400" height="600" alt="Screenshot 2026-03-19 at 10 56 18 AM" src="https://github.com/user-attachments/assets/e300b296-2712-460e-9172-3d610baef04f" />
-
-<img width="400" height="600" alt="Screenshot 2026-03-19 at 10 56 29 AM" src="https://github.com/user-attachments/assets/f8977aca-22a6-4ff1-bc3f-15941432922e" />
-
-<img width="400" height="600" alt="Screenshot 2026-03-19 at 10 58 09 AM" src="https://github.com/user-attachments/assets/81454737-9a5f-4b09-b0b1-4b5ceb69105c" />
-
-<img width="400" height="600" alt="Screenshot 2026-03-19 at 10 58 18 AM" src="https://github.com/user-attachments/assets/71da40d0-b1a4-4fb0-a5a8-5f0f095d190f" />
-
 ## Tech Stack
 
 - React 18
